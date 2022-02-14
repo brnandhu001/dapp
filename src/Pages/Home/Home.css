@@ -1,0 +1,202 @@
+body {
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+  }
+  /* carosal */
+  .bgg-caro-l-1{
+
+    background-image: url(../im/slider/s3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+
+  }
+  .bgg-carol-l-2{
+  
+    background-image: url(../im/slider/s1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+  }
+  .bgg-caro-l-3{
+  
+    background-image: url(../im/slider/s2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .bgg-caro-r-1{
+  
+    background-image: url(../im/slider/s2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .bgg-caro-r-2{
+  
+    background-image: url(../im/slider/s3.png);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .bgg-caro-r-3{
+  
+    background-image: url(../im/slider/s1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+.btmm{
+  margin-right: 350px;
+
+}
+.headd{
+  background-image: linear-gradient(to left,rgb(0, 75, 250),rgb(0, 224, 187));
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* card timer */
+.car-tim{
+  position: relative;
+  bottom: 30px;
+}
+.bggtimer{
+  background-color: black;
+}
+
+.bgbtt-gra{
+  background-image: linear-gradient(to right,blue,rgb(11, 218, 255),rgb(11, 218, 255));
+}
+
+
+.btnn {
+  flex: 1 1 auto;
+  margin: 10px;
+  padding: 30px;
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+ /* text-shadow: 0px 0px 10px rgba(0,0,0,0.2);*/
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+ }
+
+/* Demo Stuff End -> */
+
+/* <- Magic Stuff Start */
+
+
+
+
+
+
+.bnn632-hover {
+  width: 160px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  margin: 20px;
+  height: 55px;
+  text-align:center;
+  border: none;
+  background-size: 300% 100%;
+  border-radius: 50px;
+
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.bnn632-hover:hover {
+  background-position: 100% 0;
+
+  -o-transition: all .4s ease-in-out;
+  -webkit-transition: all .4s ease-in-out;
+  transition: all .4s ease-in-out;
+}
+
+.bnn632-hover:focus {
+  outline: none;
+}
+
+.bnn632-hover.bn19 {
+    background-image: linear-gradient(
+      to right,
+      #0400e2,
+      #07cbfc,
+      #1700e7,
+      #4600e9
+    );
+    box-shadow: 0 4px 15px 0 rgba(3, 3, 3, 0.75);
+}
+.lh{
+  line-height: 1.6;
+}
+
+.fc-im{
+  background-image:url(../im/slider/s3.png);
+  background-repeat: no-repeat;
+background-position: center;
+
+}
+
+
+/* become a creater */
+.bcme-cre1{
+  background-image:url(../im/bg/bgggg.png),linear-gradient(to right,blue,rgb(0, 238, 255));
+  background-repeat: no-repeat;
+background-position: center;
+
+
+
+
+}
+
+.ln-mar{
+  position: relative;
+  bottom: 20px;
+
+}
+.hover-item {
+  transition: 0.6s;
+}
+.hover-item:hover {
+  transform: translate(0, -20px);
+}
+
+
+/* footer form */
+
+.fotfm{
+  outline:0 ;
+}
+
+/* css for login btn */
+.myButton{
+  background-color: rgb(34, 32, 32);
+  transition: 0.25s linear;
+}
+.myButton:hover{
+  background-image: linear-gradient(to right,blue,rgb(11, 218, 255),rgb(11, 218, 255));
+
+  
+}
+.headtextt{
+  background-image: linear-gradient(to right,rgb(85, 34, 226),rgb(5, 218, 200));
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* its for profilepage */
+.myButton1{
+  background-image: linear-gradient(to right,blue,rgb(11, 218, 255),rgb(11, 218, 255));
+  transition: 0.25s linear;
+}
+.myButton1:hover{
+  background-image: linear-gradient(to right,blue,rgb(48, 11, 255),rgb(64, 11, 255));
+
+  
+}
+
